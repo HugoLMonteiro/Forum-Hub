@@ -109,5 +109,4 @@ DELETE	/topicos/{id}	Exclui um tópico (exclusão lógica, requer token JWT).
 Contribuições são bem-vindas! 
 Se você tiver alguma sugestão ou encontrar um bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Exportar para as Planilhas
 README criado com base na estrutura e linguagem predominante do repositório (Java).
